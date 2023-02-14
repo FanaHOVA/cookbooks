@@ -1,0 +1,12 @@
+pandas
+matplotlib
+plotly
+scipy
+scikit-learn
+
+
+openai
+tiktoken
+
+chromadb
+
