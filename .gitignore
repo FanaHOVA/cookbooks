@@ -3,3 +3,5 @@ tmp
 .ipynb_checkpoints
 .DS_Store
 data/*
+chroma_logs.log
+.chroma
