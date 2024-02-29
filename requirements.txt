@@ -1,12 +1,6 @@
-pandas
-matplotlib
-plotly
-scipy
-scikit-learn
+# General utilities
+termcolor
+json
+python-dotenv
 
-
-openai
-tiktoken
-
-chromadb
-
+openai>=1.13.3
